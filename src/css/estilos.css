@@ -9,7 +9,6 @@ body {
 }
 
 .cabecalho {
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -140,9 +139,9 @@ body {
 }
 
 .cartao .descricao .texto {
-    font-size: 14px;
+    font-size: 18px;
     padding: 12px;
-    text-align: justify;
+    text-align: left;
     max-height: 115px;
     overflow-y: auto;
 }
