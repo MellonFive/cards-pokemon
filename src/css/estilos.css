@@ -142,6 +142,6 @@ body {
     font-size: 18px;
     padding: 12px;
     text-align: left;
-    max-height: 115px;
+    max-height: 85px;
     overflow-y: auto;
 }
