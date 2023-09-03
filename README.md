@@ -2,7 +2,7 @@
 
 Um projeto feito para saber mais sobre o dev em dobro
 
-[<img src="tela.gif" alt="gif da tela inicial do projeto xyz">]
+[<img src="./github/tela.gif" alt="Gif do projeto Pokemon Cards">]
 
 ## Tecnologias utilizadas
 
