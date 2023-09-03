@@ -20,5 +20,4 @@ Um projeto feito para saber mais sobre o dev em dobro
 
 - Dificuldade ao coordenar o HTML e o CSS. 
 - Posicionar os elementos e descobrir onde se coloca class. 
-- Melhorar a interpretação do código(Observar o layout e fazer o código)
-Falta mais coordenação.
+- Melhorar a interpretação do código(Observar o layout e fazer o código). Falta mais coordenação.
